@@ -1,0 +1,106 @@
+{
+    "memes": [
+        {
+            "id": 1,
+            "name": "Doge",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/013/564/doge.jpg",
+            "about": "Doge (pronounced /doʊdʒ/ DOHJ) is a slang term for dog that is primarily associated with pictures of Shiba Inus (nicknamed Shibe) and internal monologue captions on Tumblr. These photos may be photoshopped to change the dog's face or captioned with interior monologues in Comic Sans font. The primary meme and iconography associated with Doge is the Shiba Inu named Kabosu, whose photos taken by her owner Atsuko Sato in early 2010 went viral across the internet, spawning numerous memes and larger trends in the following decades. Starting in 2017, Ironic Doge formats gained prevalence over the original wholesome version as the memetic character continued to evolve."
+        },
+        {
+            "id": 2,
+            "name": "My Little Pony: Friendship is Magic",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/005/014/MyLittlePony.jpg",
+            "about": "My Little Pony: Friendship is Magic is a Canadian/American flash cartoon series, produced by Studio B Productions (now rebranded DHX), based on the My Little Pony universe. It was developed for television by Lauren Faust, who also did major work on both The Powerpuff Girls and Foster's Home for Imaginary Friends. Since its on-air debut in October 2010, the series has become extremely popular across the Internet by gathering a massive online following. Fans outside the show's target demographic, especially teen and adult male fans, have come to be known as bronies. Female fans of the show may also be referred to as pegasisters."
+        },
+        {
+            "id": 3,
+            "name": "Dolan",
+            "image": "https://i.kym-cdn.com/entries/icons/original/000/003/549/Dolan.jpg",
+            "about": "Dolan is an MS Paint web comic series featuring a variety of poorly drawn Disney cartoon characters."
+        },
+        {
+            "id": 4,
+            "name": "Scumbag Steve",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/004/856/ScumbagSteve.jpg",
+            "about": "Scumbag Steve is an advice animal character based on a photograph of a youth dressed in baggy clothes with a sideways fitted cap and standing in a hallway. As the name suggests, the image macros portray the character as an opportunistic and freeloading juvenile who wreak havoc in various social situations."
+        },
+        {
+            "id": 5,
+            "name": "Overly Attached Girlfriend",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/010/496/Overly_attached_GF.jpg",
+            "about": "Overly Attached Girlfriend is an advice animal image macro featuring webcam picture of vlogger Laina Morris and various captions portraying her in the stereotype of an overprotective and clingy girlfriend."
+        },
+        {
+            "id": 6,
+            "name": "Good Guy Greg",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/005/681/GoodGuyGreg.jpg",
+            "about": "Good Guy Greg (GGG) is an advice animal image macro series featuring a photo of a square-jawed man smiling at the camera with a marijuana cigarette in his mouth. As the antithesis of Scumbag Steve, the captions generally depict the character as kind, generous or empathetic to other people."
+        },
+        {
+            "id": 7,
+            "name": "Ridiculously Photogenic Guy",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/009/754/PhotogenicGuy.jpg",
+            "about": "Ridiculously Photogenic Guy (RPG) is a photoshop meme and advice animal featuring a photo of a smiling man called Zeddie Little running in the 2012 Cooper River Bridge Run. The photo gained notoriety online after being posted to the social news website Reddit where users found the man to be exceptionally handsome."
+        },
+        {
+            "id": 8,
+            "name": "MonkaS",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/022/713/MonkaSSS.jpg",
+            "about": "MonkaS is a Twitch TV emote featuring an illustration of Pepe the Frog appearing frightened while sweating, which is typically used in Twitch chat during moments of high tension in video game matches to express anxiety."
+        },
+        {
+            "id": 9,
+            "name": "Hide The Pain Harold",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/016/546/hidethepainharold.jpg",
+            "about": "Hide The Pain Harold, also simply referred to as Harold or Maurice is the nickname given to a senior stock photography model whose facial expression appears to indicate suppressed pain and/or discomfort."
+        },
+        {
+            "id": 10,
+            "name": "Sad Keanu",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/002/862/SadKeanu.jpg",
+            "about": "Sad Keanu is a photoshop meme based on a paparazzi photograph of the Canadian American actor Keanu Reeves sitting on a park bench and enjoying a sandwich by himself."
+        },
+        {
+            "id": 11,
+            "name": "Grumpy Cat",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/011/365/GRUMPYCAT.jpg",
+            "about": "Grumpy Cat is the nickname given to Tardar Sauce, a snowshoe cat that rose to online fame after several pictures of her annoyed facial expressions were posted to Reddit in late September 2012."
+        },
+        {
+            "id": 12,
+            "name": "Nyan Cat",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/005/608/nyan-cat-01-625x450.jpg",
+            "about": "Nyan Cat, also known as Pop Tart Cat, is an 8-bit animation depicting a cat with the body of a cherry Pop-Tart flying through outer space. While absurd themes like flying kittens and pastry cats have been around for some time, the surreal humor behind this particular combination has captivated YouTubers and online art communities, spawning fan illustrations as well as user-interface designs and homebrew games across multiple platforms."
+        },
+        {
+            "id": 13,
+            "name": "Facepalm",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/000/554/picard-facepalm.jpg",
+            "about": "Facepalm, also known as Facepalming, is a slang term that refers to the act of placing one's face in one's hand, a form of nonverbal-communication common among many cultures. The action conveys a message of dismay and is often a reaction toward someone's momentary lapse of logic, judgment or memory. This reaction may be directed toward another person or be self-deprecating. Online, people post various reaction images, GIFs and videos of people performing the motion as memes to express embarrassment towards someone else's actions."
+        },
+        {
+            "id": 14,
+            "name": "I Know That Feel Bro",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/005/393/IKIFEEL.jpg",
+            "about": "I Know That Feel Bro (also known as to uczucie or to uczócie) is an Internet slang expression used to convey empathy towards or agree with someone else's feeling or opinion. The expression, which roughly means “I feel you, bro,” is typically accompanied by a contour- drawing reaction image of two bald men embracing each other expressionlessly. The face has been used as an exploitable character and is often seen in that feel when (TFW) threads on image boards, which describe an emotional situation or event."
+        },
+        {
+            "id": 15,
+            "name": "Surprised Pikachu",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/027/475/Screen_Shot_2018-10-25_at_11.02.15_AM.jpg",
+            "about": "Surprised Pikachu, also known as Shocked Pikachu, refers to a screenshot from the Pokémon anime of the character Pikachu with its mouth agape, as though it were surprised at something. In the autumn of 2018, the image was used as a reaction image paired with captions where a set-up leads to a predictable outcome that nevertheless leaves one surprised."
+        },
+        {
+            "id": 16,
+            "name": "Disaster Girl",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/000/043/dg1.jpg",
+            "about": "Disaster Girl is a photoshop meme in which an exploitable photo of a smiling girl is superimposed on to images of natural disasters and accidents to imply that she has caused some type of calamity depicted in the background."
+        },
+        {
+            "id": 17,
+            "name": "This Is Fine",
+            "image": "https://i.kym-cdn.com/entries/icons/mobile/000/018/012/this_is_fine.jpg",
+            "about": "This Is Fine is a two-pane image of an anthropomorphic dog trying to assure himself that everything is fine, despite sitting in a room that is engulfed in flames. Taken from an issue of the webcomic series Gunshow illustrated by K.C. Green and published in early January 2013, the cartoon is typically used as a reaction image to convey a sense of self-denial or acceptance in the face of a hopeless situation."
+        }
+    ]
+}
